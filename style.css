@@ -1,0 +1,13 @@
+#container{
+    background-color: aqua;
+    width: 45%;
+    margin: auto;
+    display: grid;
+    grid-template-columns: auto auto auto auto auto;
+}
+#container button{
+    background-color: blueviolet;
+    border-style: none;
+    text-align: center;
+    
+}
